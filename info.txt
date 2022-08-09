@@ -1,0 +1,11 @@
+اماكن الحجات integration
+PAYMOB_API_KEY=1-setting 2- AccountInfo 3-APIKey 4-view 
+PAYMOB_INTEGRATION_ID=1-paymentintegration 2-ID 
+PAYMOB_IFRAME_ID=1-Iframe  
+PAYMOB_HMAC=1-setting 2-Account Info 3-HMAC
+
+
+
+https://accept.paymobsolutions.com/api/acceptance/post_pay
+https://accept.paymobsolutions.com/api/acceptance/post_pay
+
